@@ -7,30 +7,37 @@
 ## 📌 What You'll Learn
 
 ✅ Java Basics (Data Types, Variables, Operators)
+
 ✅ Control Structures (Loops, Conditionals)
+
 ✅ Object-Oriented Programming (OOP) Principles
+
 ✅ Exception Handling
+
 ✅ Multithreading
+
 ✅ Collections Framework
+
 ✅ File Handling & I/O Operations
+
 ✅ JDBC & Database Connectivity
+
 ✅ Java Servlets & JSP (for Web Development)
+
 ✅ And More...
-📂 Repository Structure
 
-
-## 📁 JavaNotes  
- ```
- ├── 📄 Basics.md           # Java syntax, variables, operators  
- ├── 📄 OOP_Concepts.md     # Classes, Objects, Inheritance, Polymorphism  
- ├── 📄 ExceptionHandling.md # Try-Catch, Throws, Custom Exceptions  
- ├── 📄 Multithreading.md    # Threads, Synchronization, Concurrency  
- ├── 📄 Collections.md       # Lists, Sets, Maps  
- ├── 📄 FileHandling.md      # Reading/Writing Files  
- ├── 📄 JDBC.md              # Database connectivity in Java  
- ├── 📄 Servlets_JSP.md      # Web development with Java  
- ├── 📄 README.md            # Project documentation  
-```
+## 📂 Repository Structure
+        📁 JavaNotes  
+             ├── 📄 Basics.md           # Java syntax, variables, operators  
+             ├── 📄 OOP_Concepts.md     # Classes, Objects, Inheritance, Polymorphism  
+             ├── 📄 ExceptionHandling.md # Try-Catch, Throws, Custom Exceptions  
+             ├── 📄 Multithreading.md    # Threads, Synchronization, Concurrency  
+             ├── 📄 Collections.md       # Lists, Sets, Maps  
+             ├── 📄 FileHandling.md      # Reading/Writing Files  
+             ├── 📄 JDBC.md              # Database connectivity in Java  
+             ├── 📄 Servlets_JSP.md      # Web development with Java  
+             ├── 📄 README.md            # Project documentation  
+            
 
 
 ## ~ Who Can Use This?
